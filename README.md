@@ -9,4 +9,5 @@
 2. Склонируйте репозиторий или скачайте файлы.
 3. Установите зависимости:
    ```bash
-   pip install requests
+   pip install -r requirements.txt
+
